@@ -3,3 +3,15 @@
 ################################################################################
 
 /MortoNJS/packages
+/MortoNJS/MortoNJS.sln
+/MortoNJS/.vs
+/MortoNJS/MortoNJS/bin
+/MortoNJS/MortoNJS/obj/Debug
+/MortoNJS/MortoNJS/Properties
+/MortoNJS/MortoNJS/Web.Release.config
+/MortoNJS/MortoNJS/Web.Debug.config
+/MortoNJS/MortoNJS/Web.config
+/MortoNJS/MortoNJS/packages.config
+/MortoNJS/MortoNJS/MortoNJS.csproj.user
+/MortoNJS/MortoNJS/MortoNJS.csproj
+/MortoNJS/MortoNJS/ApplicationInsights.config
