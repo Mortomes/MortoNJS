@@ -1,4 +1,4 @@
-﻿var memory = function (spec) {
+﻿var cpumemory = function (spec) {
     var that = {};
 
     var mainMemory = [];
