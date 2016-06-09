@@ -44,4 +44,4 @@
     that.set = set;
 
     return that;
-}
+};

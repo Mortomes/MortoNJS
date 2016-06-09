@@ -6,4 +6,7 @@
     ctx.moveTo(0, 0);
     ctx.lineTo(canvas.clientWidth, canvas.clientHeight);
     ctx.stroke();
+
+    var cpu = createCpu();
+    cpu.execute();
 }
